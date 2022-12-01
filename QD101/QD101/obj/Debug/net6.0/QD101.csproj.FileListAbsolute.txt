@@ -1,0 +1,5 @@
+C:\Users\George\source\repos\Python Projects\QD101\QD101\obj\Debug\net6.0\QD101.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\Python Projects\QD101\QD101\obj\Debug\net6.0\QD101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\Python Projects\QD101\QD101\obj\Debug\net6.0\QD101.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\Python Projects\QD101\QD101\obj\Debug\net6.0\QD101.AssemblyInfo.cs
+C:\Users\George\source\repos\Python Projects\QD101\QD101\obj\Debug\net6.0\QD101.csproj.CoreCompileInputs.cache
