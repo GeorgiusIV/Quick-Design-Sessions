@@ -1,0 +1,15 @@
+C:\Users\George\source\repos\Python Projects\QD103\QD103\bin\Debug\net6.0\QD103.exe
+C:\Users\George\source\repos\Python Projects\QD103\QD103\bin\Debug\net6.0\QD103.deps.json
+C:\Users\George\source\repos\Python Projects\QD103\QD103\bin\Debug\net6.0\QD103.runtimeconfig.json
+C:\Users\George\source\repos\Python Projects\QD103\QD103\bin\Debug\net6.0\QD103.dll
+C:\Users\George\source\repos\Python Projects\QD103\QD103\bin\Debug\net6.0\QD103.pdb
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.AssemblyInfo.cs
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.dll
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\refint\QD103.dll
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.pdb
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\QD103.genruntimeconfig.cache
+C:\Users\George\source\repos\Python Projects\QD103\QD103\obj\Debug\net6.0\ref\QD103.dll
